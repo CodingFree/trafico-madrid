@@ -1,18 +1,6 @@
 {
   "name": "Trafico de Madrid",
-  "description": "Una aplicacion para mostrar el trafico de Madrid. Muestra los siguientes elementos:</br>
-<ul>
-	<li> Obras</li>
-	<li>Accidente</li>
-	<li>Alerta</li>
-	<li>Evento</li>
-	<li>Previsión</li>
-	<li>Cámaras</li>
-	<li>Niveles de Servicio</li>
-	<li>Intensidades (Veh\h)</li>
-	<li>Taxis</li>
-	<li>Infracciones</li>
-</ul>",
+  "description": "Una aplicacion para mostrar el trafico de Madrid. Muestra los atascos, incidentes o actividades de la Comunidad de Madrid.",
   "launch_path": "/index.html",
   "version": "1.0",
   "icons": {
