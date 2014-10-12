@@ -17,6 +17,7 @@
     "name": "CodingFree",
     "url": "http://github.com/CodingFree/"
   },
+  "orientation": ["landscape"],
   "default_locale": "es",
   "chrome": { "navigation": true }
 }
